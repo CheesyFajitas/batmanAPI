@@ -84,6 +84,9 @@ The app sends a request to a fictional API and displays results in the terminal.
 - Gotham weather  
 - Alfred assistant  
 - Bat-Signal tracker
+
+## Release Notes
+- Added batmanAPI.py and requirements.txt files
   
 ## Contributing
 
