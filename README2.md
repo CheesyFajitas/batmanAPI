@@ -1,2 +1,2 @@
 # GitHub + VS Code Lab
-This file was created during a lab exercise.
+This update is being made from the feature/readme-update branch.
